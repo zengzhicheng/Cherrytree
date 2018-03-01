@@ -1,0 +1,42 @@
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "clipboard.pyc", line 432, in to_image
+AttributeError: 'NoneType' object has no attribute 'link'
+Traceback (most recent call last):
+  File "core.pyc", line 2103, in export_to_txt_single
+  File "core.pyc", line 2109, in export_to_txt_multiple
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "core.pyc", line 2103, in export_to_txt_single
+  File "core.pyc", line 2109, in export_to_txt_multiple
+IndexError: tuple index out of range
+Traceback (most recent call last):
+  File "core.pyc", line 2103, in export_to_txt_single
+  File "core.pyc", line 2109, in export_to_txt_multiple
+IndexError: tuple index out of range
